@@ -1,0 +1,9 @@
+\\Mac\Home\Desktop\Training\AdventureWorks\Ad\bin\Debug\Ad.dacpac
+\\Mac\Home\Desktop\Training\AdventureWorks\Ad\bin\Debug\Ad.dll
+\\Mac\Home\Desktop\Training\AdventureWorks\Ad\bin\Debug\Ad.pdb
+\\Mac\Home\Desktop\Training\AdventureWorks\Ad\obj\Debug\Model.xml
+\\Mac\Home\Desktop\Training\AdventureWorks\Ad\obj\Debug\refactor.xml
+\\Mac\Home\Desktop\Training\AdventureWorks\Ad\obj\Debug\postdeploy.sql
+\\Mac\Home\Desktop\Training\AdventureWorks\Ad\obj\Debug\predeploy.sql
+\\Mac\Home\Desktop\Training\AdventureWorks\Ad\obj\Debug\Ad.dll
+\\Mac\Home\Desktop\Training\AdventureWorks\Ad\obj\Debug\Ad.pdb
