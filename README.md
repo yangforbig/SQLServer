@@ -1,2 +1,2 @@
-# SQLServer-
+# SQLServer
 Practise for SSDT
